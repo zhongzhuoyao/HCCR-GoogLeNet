@@ -1,19 +1,11 @@
 # HCCR-GoogLeNet
-
 ========
-
 This project is about directional feature extraction and HCCR-GoogLeNet CNN architecture.
-
 ========
-
 #Details
-
 In this paper, we present a new deep leaning model, HCCR-GoogLeNet, for the recognition of handwritten Chinese character. HCCR-GoogLeNet uses four Inception modules to construct an efficient deep network. The HCCR-GoogLeNet is designed very deeply yet slim, with total 19 layers (counting for all convolutional layers, pooling layers, fully connect layers and softmax output layer). We employ directional feature extraction domain knowledge, such as the Gabor feature and gradient feature, to enhance the performance of HCCR-GoogLeNet. Experiments on the ICDAR 2013 offline HCCR competition dataset show that our best single HCCR-GoogLeNet is superior to all previous best single and ensemble CNN models in terms of both accuracy and storage performance. The proposed single and ensemble HCCR-GoogLeNet models achieve new state of the art recognition accuracy of 96.35% and 96.74%, respectively, outperforming previous best result with significant gap.
-
 ========
-
 #Citation 
-
 If you use this code, please cite our paper: 
 Bibtex format: 
 @inproceedings{HCCR-GoogLeNet, 
