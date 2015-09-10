@@ -2,7 +2,7 @@
 
 ========
 
-This project is about directional feature extraction and HCCR-GoogLeNet CNN architecture.
+This project is about directional feature extraction and HCCR-GoogLeNet CNN architecture definition.
 
 ========
 
