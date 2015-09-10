@@ -2,7 +2,7 @@
 
 ========
 
-This project is about directional feature extraction and HCCR-GoogLeNet CNN architecture definition.
+This project is about HCCR-GoogLeNet CNN architecture definition and directional feature extraction. For more information, please see the paper: "Zhuoyao Zhong, Lianwen Jin, Zecheng Xie, High Performance Offline Handwritten Chinese Character Recognition Using GoogLeNet and Directional Feature Maps, ICDAR 2015”, http://arxiv.org/abs/1505.04925.
 
 ========
 
