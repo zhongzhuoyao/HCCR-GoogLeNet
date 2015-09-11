@@ -36,7 +36,7 @@ layers {
     num_output: 64
     kernel_size: 7
     stride: 2
-    pad: 3
+    pad: 0
     weight_filler {
       type: "gaussian"
       std: 0.015
