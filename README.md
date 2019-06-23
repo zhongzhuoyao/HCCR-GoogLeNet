@@ -11,8 +11,6 @@ This repository is the source codes on our paper, inculding the prototxt file of
 * We were the first to propose to incorporate directional features (e.g., Gabor, HoG and gradient feature) as domain knowledge into deep convolutional neural network to boost performance on offline HCCR
 * Our single HCCR-GoogLeNet was superior to all previous best single and ensemble CNN models in terms of both accuracy and storage performance on the ICDAR 2013 offline HCCR competition dataset. Our ensemble HCCR-GoogLeNet models achieved a better recognition result of 96.74%.
 
-========
-
 ### Citing HCCR-GoogLeNet
 
 If our codes are useful for your work, please cite our paper:
