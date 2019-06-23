@@ -1,7 +1,10 @@
-# HCCR-GoogLeNet
 ### High Performance Offline Handwritten Chinese Character Recognition Using GoogLeNet and Feature Maps
 
 by Zhuoyao Zhong, Lianwen Jin, Zecheng Xie, South China University of Technology (SCUT), Published in ICDAR 2015.
+
+### Introduction
+This repository is the source codes on our paper, inculding the prototxt file of HCCR-GoogLeNet CNN architecture definition and codes for directional feature extraction
+a fork from [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn), and our proposed DeepText system for scene textdetection is based on the elegant framework of Faster R-CNN. 
 
 ========
 
@@ -15,7 +18,7 @@ We present a new deep convolutional neural network, namely HCCR-GoogLeNet, for h
 
 ========
 
-#Citation 
+### HCCR-GoogLeNet
 
 If our codes are useful for your work, please cite our paper:
 Bibtex format: 
